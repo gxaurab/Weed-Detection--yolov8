@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['maize', 'weed']
+
+roboflow:
+  workspace: deep-learning-fik4x
+  project: maize-weed-detection-kpflk
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/deep-learning-fik4x/maize-weed-detection-kpflk/dataset/2

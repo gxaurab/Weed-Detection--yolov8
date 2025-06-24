@@ -1,0 +1,3 @@
+The model is saved on: runs/train/weights
+
+The images are saved on: runs/train1...
